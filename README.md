@@ -1,2 +1,2 @@
 # PicX-repo
-This is a reposity for saving some interesting sticker 😁
+This is a repository for saving some interesting sticker 😁
